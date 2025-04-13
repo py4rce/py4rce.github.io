@@ -133,17 +133,17 @@ Para conseguir un buen diseño UI en java usando formularios lo que se necesita 
 - botones con diseños fuera de los comunes usando labels
 
 ###  opcion icon : colocar label como imagen o gif
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%201.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%201.png)
 
 ###  agregar un pequeno icono al costado de un texto. ejemplo:
 colocas un label y no quitas el texto, simplemente lo deja s y lueg oagregas el icono
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%202.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%202.png)
 
 ### Convertir Labels en botones agregandole Eventos
 
 Para conseguir ello se necesita agregar eventos utilizando la tabla de la izquierda haciendo clicks necesarios
 
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%203.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%203.png)
 
 ### Conseguir un efecto animado cada al estar encima del boton
 
@@ -174,7 +174,7 @@ private void jLabel2MouseExited(java.awt.event.MouseEvent evt) {
 	 }
 ```
 
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%204.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%204.png)
 
  
  
@@ -210,7 +210,7 @@ String search = jComboBox3.getSelectedItem().toString();  //obtener cadena selec
 
 Otro consejo es colocar un panel detras para dar el efecto de borde, y combinarlo con la paleta de colores del programa:
 
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%205.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%205.png)
 
 
 
@@ -224,7 +224,7 @@ Otro consejo es colocar un panel detras para dar el efecto de borde, y combinarl
 
 Se puede conseguir buenos efectos con los paneles asignandoles bordes de tipo Line
 
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%206.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled%206.png)
 
 ##  poner fondo de figma o cualquier otra herramienta 
 Puedes poner un fondo de figma como imagen, aunque la desventaja es que el tamanio no sera responsivo
@@ -239,7 +239,7 @@ Puedes poner un fondo de figma como imagen, aunque la desventaja es que el taman
 - por ejemplo aqui utilizan unas dimensiones distintas a las normales para hacer un loading
 - o el otro ejemplo en el que no tiene un gif sin fondo, sin embargo lo adapta colocandole un fondo del mismo color
 
-![image01](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled.png)
+![Image](/assets/img/posts/Formularios JAVA faa9d8b2701043b8a04db99ae19fa882/Untitled.png)
 
 ### 2 generar codigos 
 ```java
