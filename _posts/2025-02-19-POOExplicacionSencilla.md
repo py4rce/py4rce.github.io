@@ -132,12 +132,10 @@ Al implementar una interfaz, una clase se compromete a proporcionar la implement
 
 # Explicaciones visuales
 
-![Image](/assets/img/posts/Pasted%20image%2020241016110145.png)
+![Image](/assets/img/posts/OOP/Pasted image 20250219145037.png)
 
-![Image](/assets/img/posts/Pasted%20image%2020250219145206.png)
+![Image](/assets/img/posts/OOP/Pasted image 20250219145206.png)
 
-![Image](/assets/img/posts/Pasted%20image%2020250219145338.png)
-
-
+![Image](/assets/img/posts/OOP/Pasted image 20250219145338.png)
 
  
