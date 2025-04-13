@@ -8,7 +8,7 @@ tags:  [tcp-ip, osi, redes, protocolos]
 
  
 
-![image01](assets/img/posts/NetworkingConcepts.svg)
+![image01](/assets/img/posts/NetworkingConcepts.svg)
 
 Conocimiento previo:
 1. ISO : organizacion de estandarizacion, no se limita a redes o computadoras. ha desarrollado mas de 18,500 estandares inteernacionales

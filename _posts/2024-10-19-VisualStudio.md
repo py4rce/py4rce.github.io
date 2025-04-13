@@ -15,7 +15,7 @@ tags:  [visual-studio, ide, desarrollo]
 este objeto contiene tab pages
 
 ejemplo:
-![image01](assets/img/posts/Visual Studio/Pasted image 20241003102155.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241003102155.png)
 
 
 # Miscelaneo 
@@ -25,7 +25,7 @@ Cuenta con 3 archivos:
 - El formulario (la vista GUI)
 - El codigo `.Designer`
 - El codigo de GUI
-![image01](assets/img/posts/Visual Studio/Pasted image 20241003092524.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241003092524.png)
 
 ## Agregar un Data Source
 
@@ -33,16 +33,16 @@ Cuenta con 3 archivos:
 https://learn.microsoft.com/en-us/visualstudio/data-tools/add-new-data-sources?view=vs-2022 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241020122227.png)  
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241020122227.png)  
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241020122241.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241020122241.png) 
 
 
 ## Instalar extensiones
 
 
 https://www.youtube.com/watch?v=qhcg4dy43xk 
-![image01](assets/img/posts/Visual Studio/instalar extensiones visual.png)
+![image01](/assets/img/posts/Visual Studio/instalar extensiones visual.png)
 
 
 Install-Package Microsoft.ReportingServices.ReportViewerControl.WinForms 
@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=bOnCfq04TXQ
 
   
 ### Extension para editar reportes rdlc
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019210440.png)  
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019210440.png)  
 
  
 Crear reporte
@@ -62,13 +62,13 @@ Asegúrate de que tienes instalado el paquete NuGet de `Microsoft.Data.SqlClient
 ## Cadena de conexion
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241003093121.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241003093121.png)
 
 
  click derecho properties o Alt Enter, luego ve a Settings
  configura el scope a app, type , connection string
  `Data Source=DESKTOP-4IV5QRE\SQLEXPRESS;Initial Catalog=dbventas;Integrated Security=True`
-![image01](assets/img/posts/Visual Studio/Pasted image 20241020122920.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241020122920.png)
 
 # Shortcuts programar con el IDE visual studio
  
@@ -99,10 +99,10 @@ Espero que te sirva, ¡feliz codificación!
 # Conectar Visual studio con SQL SERVER
 
 https://www.youtube.com/watch?v=rNgcVqbBgYA 
-![image01](assets/img/posts/Visual Studio/6.png) 
+![image01](/assets/img/posts/Visual Studio/6.png) 
 
  
-![image01](assets/img/posts/Visual Studio/7.png)
+![image01](/assets/img/posts/Visual Studio/7.png)
 
 
 # SNIPPETS DE CODIGO UTILES
@@ -254,12 +254,12 @@ Este es otro metodo que suele ser utilizado con frecuencia para interactuar medi
 ### Creacion
 - Forms
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019212555.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019212555.png)
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019212646.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019212646.png) 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019215307.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019215307.png) 
 
 
 
@@ -269,16 +269,16 @@ Este es otro metodo que suele ser utilizado con frecuencia para interactuar medi
 
 CTRL ALT X: abrir toolbox
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019211524.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019211524.png) 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019211429.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019211429.png) 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019211618.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019211618.png) 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019211636.png) 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019211830.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019211636.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019211830.png) 
 
 
 
@@ -320,13 +320,13 @@ nota = reportViewer1 es el nombre del ReportViewer Object dentro del formulario
 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019180355.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019180355.png)
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019180939.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019180939.png)
 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019180957.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019180957.png)
 
 
 ### Desactivar y Habilitar
@@ -355,7 +355,7 @@ en este caso lo
 
 
 Objeto DataGridView con el nombre dataListado
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019201817.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019201817.png)
 
 dentor del codigo de FRM 
 ```c#
@@ -400,7 +400,7 @@ Dentro de datos:
 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019205938.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019205938.png)
 
 ## doble click datagrid event para editar
 
@@ -434,13 +434,13 @@ todos los datos del datagrid son asignados a los controles de entrada.
 
 https://www.youtube.com/watch?v=FbRvdjfjtkI  
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019232533.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019232533.png) 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019233217.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019233217.png) 
 
 
 
-![image01](assets/img/posts/Visual Studio/Pasted image 20241020102022.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241020102022.png) 
 
 
 
@@ -463,7 +463,7 @@ Como ordeno mi toolStrip si tengo los siguientes formularios:
 ## metodo habilitar y deshabilitar
 
  Al asignarle el valor a esa variable y hacer una referencia de esa misma en el codigo del formulario, puedes utilizar `.ReadOnly` y pasarle un valor booleano.
-![image01](assets/img/posts/Visual Studio/Pasted image 20241019174730.png) 
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241019174730.png) 
 Controles
 - txt : para TextBox
 - cb : para ComboBox
@@ -529,7 +529,7 @@ Lo mismo, podria implementarse con un metodo, aplicando una logica de habilitar 
 
 `#endregion`
 - sirve para mejorar la legibilidad
-![image01](assets/img/posts/Visual Studio/Pasted image 20241003085900.png)
+![image01](/assets/img/posts/Visual Studio/Pasted image 20241003085900.png)
 
 ## sql connection c sharp
 
@@ -802,11 +802,11 @@ permite la actualizacion constante y esta incorporado en el mismo gui
 
 
 Presione nuevo:
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173507.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173507.png)
 Presione cancelar:
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173517.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173517.png)
 Presione nuevo pero sin rellenar ningun campo, no salio ningun error:
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173552.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173552.png)
 Puedo editar luego de elegir un registro del apartado Listado, luego de dar OK, se limpian todos los campos.
 - txtIdTrabajador es el TextBox con el label Codigo a la izquierda, es el utilizado en la condicional, debido a que no puede ser escrito por el usuario, este solo puede ser rellenado mediante el doble click
 El codigo es:
@@ -823,18 +823,18 @@ El codigo es:
                 Utilidades.MensajeError("Debe seleccionar primero un registro a editar desde la pestaña Listado");
             }
 ```
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173705.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173705.png)
 Intentar edtiar sin haber elegido un registro, levanta un mensaje:
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173749.png) 
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173749.png) 
 
 
 
 Al hacer doble click en un registro del apartado Listado, se rellenan los componentes :
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173642.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019173642.png)
 
 
 Los campos obligatorios muestran un mensaje con un icono
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172942.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172942.png)
 presiona Cancelar, habilita:
 Nuevo y Editar
 presiona Nuevo, habilita
@@ -843,23 +843,23 @@ Presiona Guardar sin rellenar datos,
 aparece un mensaje
 
 Error, despues del ERror, me elimina todo lo escrito
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172316.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172316.png)
 
 En el campo de la derecha se tiene que colocar un usuario nuevo 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172559.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172559.png)
 
 
 La contrasenia se almacena como un valor hash
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172714.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172714.png)
 
 se actualiza en tiempo real a medida que escribo el valor
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172738.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172738.png)
 
 Presionar el boton Eliminar, hace que se habilite una nueva columna y el boton eliminar
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172812.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172812.png)
 
 Presionar el boton imprimir abre la siguiente ventana con los registros almacenados
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172852.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019172852.png)
 ## Codigo capa presentacion 
 no confundas el archivo Designer con el codigo, el designer encapsula la creacion de la GUI con la GUI.
 
@@ -874,9 +874,9 @@ Por cada boton, checkbox hay una pieza de codigo.
 - 7 botones
 - 1 metodo limpiar
 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019174240.png) 
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019174240.png) 
 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019174314.png) 
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019174314.png) 
 
 
  ```c#
@@ -1454,7 +1454,7 @@ namespace CapaNegocio
 
 
 # FORMULARIOS REPORTES
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019182212.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241019182212.png)
 
 
 # Clientes
@@ -1508,17 +1508,17 @@ using System.Data.SqlClient;
 La capa de negocio no tiene una clase publica  Utilidades
 ## Utilidades en la capa de datos
 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020110130.png) 
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020110130.png) 
 
 
 ## utilidades en la capa de presentacion
 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020111648.png)
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020111648.png)
 
 # Analisis del funcionamiento de la logica de negocio
 - Son 10 las clases que interactuan con el fin de cumplir esto
 
-![image01](assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020180453.png) 
+![image01](/assets/img/posts/Visual Studio/estructuraProgramacion3Capas/Pasted image 20241020180453.png) 
 
  
 

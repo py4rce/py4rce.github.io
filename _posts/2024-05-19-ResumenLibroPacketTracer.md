@@ -138,11 +138,11 @@ PT-ROUTER-NM-1S, PT-ROUTER-NM-1SS
 
 IMAGEN DE WIC-2T:
 - Tiene 2 puertos seriales SINCRONOS
-![image01](assets/img/posts/networkin_images_book_ciscoPK/wic-2t-10102492-003_1280x1280.jpg)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/wic-2t-10102492-003_1280x1280.jpg)
 
 IMAGEN DE NM-8A/S :
 - tiene 8 puertos seriales ASINCRONOS
-![image01](assets/img/posts/networkin_images_book_ciscoPK/61ePSzESaML.jpg)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/61ePSzESaML.jpg)
 
 
 ### 2.4.4 Modem interface (Interfaz de modem)
@@ -181,16 +181,16 @@ nm1ce, NM1CFE, NM1CGE:Todos estos son de tipo ethernet y son usados para conecta
 
 ```
 
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624152850.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624152850.png)
 
 - NM-1FFE, NM-1FGE: proporcionan tipos de ethernet para conectar fibra
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624152915.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624152915.png)
 
 - Coaxial
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624153013.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624153013.png)
 
 - Puerto serial
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624153029.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624153029.png)
  
 - DSL-MODEM-PT : es un MODEN con 2 interfaces (RJ11 y RJ45)
 - CABLE-MODEM-PT : similar al DSL-MODEM, pero en vez de RJ11, cuenta con un COAXIAL. (COAXIAL y RJ45)
@@ -209,9 +209,9 @@ Conexion:
 	1. Computadora : RS232
 	2. Router : Consola 
 
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164518.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164518.png)
 Luego si vas a Desktop -> Terminal (valores por defecto) -> OK. tendras acceso por consola al Router 2621MX
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164641.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164641.png)
 ### Configurando dispositivos de red con la GUI
 
 Click en el router > Config
@@ -231,8 +231,8 @@ Next Hop: 10.0.0.6
 ```
 y para RIP solo la ip de la red.
 - Interface : todos los puertos o interfaces que tiene el dispostivo
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164741.png)
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164945.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164741.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164945.png)
 
 Haz lo mismo para un SWITCH:
 CONFIGURACION ROUTER:
@@ -246,9 +246,9 @@ CONFIGURACION ROUTER:
 	- Algorithm settings : destinada a usuarios avanzados que quieran configurar minuciosamente el dispositivo del emulador con el fin de ver como reacciona ante ciertas cituaciones o escenarios
 - Switch : Configuracion de la BASE DE DATOS VLAN
 - INTERFACE : todos los puertos o interfaces con las que cuenta el dispositivo
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164908.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164908.png)
 
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164922.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624164922.png)
 
 # 3er Capitulo : Dispositivos genericos
 
@@ -262,7 +262,7 @@ RESUMEN PERSONAL DE MODULOS DE ESTOS DISPOSITIVOS
 	- PT-HOST-NM-1AM 
 - Los headphones, microphone, camera, hard drives : son solo de adorno y no tienen ninguna funcionalidad
 
-![image01](assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624171259.png)
+![image01](/assets/img/posts/networkin_images_book_ciscoPK/Pasted image 20240624171259.png)
 
 ## Servers : Servidores
 

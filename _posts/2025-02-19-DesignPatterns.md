@@ -99,9 +99,9 @@ Facilitan el manejo de hilos.
 
 # Design Patterns VS Patrones de arquitectura
 
- ![image01](assets/img/posts/DesignPatterns/Pasted image 20250219143447.png)
+ ![image01](/assets/img/posts/DesignPatterns/Pasted image 20250219143447.png)
 
- ![image01](assets/img/posts/DesignPatterns/Pasted image 20250219143508.png)
+ ![image01](/assets/img/posts/DesignPatterns/Pasted image 20250219143508.png)
 
 - la palabra arquitectura es una palabra muy compleja para referirse en este contexto a como se organizan los archivos
 - una arquitectura es darle forma o estructura al software por como se separan sus modulos o carpetas 

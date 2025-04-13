@@ -9,11 +9,11 @@ tags: [linux, solución-errores, sistema]
 # Solution
 
 ## Open "Disks"
- ![image01](assets/img/posts/image01.png)
+ ![image01](/assets/img/posts/image01.png)
  
 
 ## Then disable `User sesssion defaults` and press OK
-![image01](assets/img/posts/image02.png)
+![image01](/assets/img/posts/image02.png)
  
  
 

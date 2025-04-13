@@ -124,13 +124,13 @@ git diff --numstat <nombreDelArchivo>
 ```
 
 (explicacion de `git commit -am` )
-![image01](assets/img/posts/GIT/Pasted image 20240630115814.png)
+![image01](/assets/img/posts/GIT/Pasted image 20240630115814.png)
 
 (explicacion de git log desde otro branch)
-![image01](assets/img/posts/GIT/Pasted image 20240630153608.png)
+![image01](/assets/img/posts/GIT/Pasted image 20240630153608.png)
 
 (ejemplo de `git log --oneline --graph --all --decorate` : la linea master sigue continuando (lo representa con pipe `|` y la bifurcacion con `/` ))
-![image01](assets/img/posts/GIT/Pasted image 20240630161321.png)
+![image01](/assets/img/posts/GIT/Pasted image 20240630161321.png)
 
 
 ## explicacion corta del log de git
@@ -178,11 +178,11 @@ git branch -D <nombre de la branch a eliminar>
 
 ```
 
-![image01](assets/img/posts/GIT/Pasted image 20240630130112.png)
+![image01](/assets/img/posts/GIT/Pasted image 20240630130112.png)
 
 
 (ejemplo de como se ve hacer un `git log` luego de hacer un `git merge` de la branch development desde la branch master)
-![image01](assets/img/posts/GIT/Pasted image 20240630162100.png)
+![image01](/assets/img/posts/GIT/Pasted image 20240630162100.png)
 
  
 

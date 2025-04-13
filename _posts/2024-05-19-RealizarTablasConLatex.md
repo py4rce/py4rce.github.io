@@ -14,7 +14,7 @@ Es necesario instalar:
  
 # Tabla 1
 
-![image01](assets/img/posts/Latex/Pasted image 20240909155610.png)
+![image01](/assets/img/posts/Latex/Pasted image 20240909155610.png)
 
 ```latex
 \documentclass{article}
@@ -119,7 +119,7 @@ Es necesario instalar:
 # Tabla 2
 
 
-![image01](assets/img/posts/Latex/Pasted image 20240909160017.png)
+![image01](/assets/img/posts/Latex/Pasted image 20240909160017.png)
 ```latex
 \documentclass{article}
 
