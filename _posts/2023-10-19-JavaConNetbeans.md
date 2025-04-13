@@ -13,9 +13,7 @@ tags:  [java, netbeans, forms, gui, desarrollo]
  
 
 ![Image](/assets/img/posts/Java con Netbeans 357b6a7a1f7647f0956fdc6efaf6b2e9/Untitled.png)
-
-![Image](/assets/img/posts/Java con Netbeans 357b6a7a1f7647f0956fdc6efaf6b2e9Untitled%201.png)
-
+ 
  
 ## Code Customizer
 
@@ -30,14 +28,14 @@ What you can configurate here is:
 
 # The design Tab
 
-![Image](/assets/img/posts/Java con Netbeans 357b6a7a1f7647f0956fdc6efaf6b2e9/Untitled%203.png)
+![Image](/assets/img/posts/Java%20con%20Netbeans%20357b6a7a1f7647f0956fdc6efaf6b2e9%2FUntitled%25203.png)
 
 - Source
 - Design
 - History
 - Selection mode
 
-![Image](/assets/img/posts/Java con Netbeans 357b6a7a1f7647f0956fdc6efaf6b2e9/Untitled%204.png)
+![Image](/assets/img/posts/Java%20con%20Netbeans%20357b6a7a1f7647f0956fdc6efaf6b2e9%2FUntitled%25204.png)
 
 - Connection mode
 
