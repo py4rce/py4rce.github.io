@@ -500,6 +500,12 @@ AGREGACIÓN
 
 # Ejemplo de implementacion de una BD en sql server
 
+Base de datos:
+- https://raw.githubusercontent.com/py4rce/py4rce.github.io/refs/heads/main/assets/ejemplo-implementacion-base-de-datos/BaseDeDatos.sql
+Procedimientos almacenados:
+- https://raw.githubusercontent.com/py4rce/py4rce.github.io/refs/heads/main/assets/ejemplo-implementacion-base-de-datos/StoredProcedures.sql
+Registros de ejemplo :
+- https://raw.githubusercontent.com/py4rce/py4rce.github.io/refs/heads/main/assets/ejemplo-implementacion-base-de-datos/Registros.sql
 
 
  
