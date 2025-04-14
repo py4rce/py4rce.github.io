@@ -8,7 +8,7 @@ tags:  [tcpIp, osi, redes, protocolos]
 
 MindMap:
 
-
+- https://github.com/py4rce/py4rce.github.io/blob/main/assets%2Fimg%2Fposts%2FNetworkingConcepts.svg
 
 
 Conocimiento previo:
