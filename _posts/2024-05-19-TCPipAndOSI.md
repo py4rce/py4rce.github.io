@@ -6,9 +6,10 @@ categories: [Networking]
 tags:  [tcp-ip, osi, redes, protocolos]
 ---
 
- 
+MindMap:
 
-![Image](/assets/img/posts/NetworkingConcepts.svg)
+https://github.com/py4rce/py4rce.github.io/blob/main/assets%2Fimg%2Fposts%2FNetworkingConcepts.svg
+
 
 Conocimiento previo:
 1. ISO : organizacion de estandarizacion, no se limita a redes o computadoras. ha desarrollado mas de 18,500 estandares inteernacionales
