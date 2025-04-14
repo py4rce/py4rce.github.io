@@ -496,5 +496,10 @@ Está conformada por 2 de los siguientes tipos:
 
 AGREGACIÓN
 
- 
+---
+
+# Ejemplo de implementacion de una BD en sql server
+
+
+
  
