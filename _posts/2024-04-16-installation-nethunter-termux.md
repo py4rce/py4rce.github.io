@@ -1,6 +1,6 @@
 ---
 title: Instalar nethunter en termux
-date: '2025-04-16 11:17:32'
+date: '2024-04-16-16 11:17:32'
 comments: true
 categories: [Pentesting]
 tags: [termux, nethunter]

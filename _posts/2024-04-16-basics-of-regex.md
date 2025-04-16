@@ -1,6 +1,6 @@
 ---
 title: Regex - Basics
-date: '2023-06-15 11:17:32'
+date: '2024-04-16 11:17:32'
 comments: true
 categories: [Programming]
 tags: [linux, programación ]

@@ -1,6 +1,6 @@
 ---
 title: Componentes de electronica fundamentales
-date: '2025-04-16 11:17:32'
+date: '2023-04-16 11:17:32'
 comments: true
 categories: [Pentesting]
 tags: [electronics, hardware-hacking]
