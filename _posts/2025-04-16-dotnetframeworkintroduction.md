@@ -26,18 +26,11 @@ Se trata de una aplicación en memoria cuyo trabajo consiste en traducir código
  
 
 ```mermaid
-graph TD
-
+graph TD;
     A[C/C++] --> K[Código Máquina]
-
-  
-
     C[Java] --> D[ByteCode-JVM]--> K[Código Máquina]
-
     C# -->
-
     IL-code-Intermediate-Language --> J[JIT Compiler]
-
     J --> K[Código Máquina]
 ```
 
