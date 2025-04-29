@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "{{ site.data.locales[site.lang].not_found.title }}"
 permalink: /404.html
-
 redirect_from:
-- /norobots/
-- /assets/
-- /posts/
-
+  - /norobots/
+  - /assets/
+  - /posts/
 no_title: true
 ---
 
@@ -16,6 +13,7 @@ no_title: true
 <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
 <meta name="renderer" content="webkit">
 <meta name="force-rendering" content="webkit">
+<h1 class="ErrorPage-title">{{ site.data.locales[site.lang].not_found.title }}</h1>
  
 <style>
   body,
@@ -298,8 +296,7 @@ no_title: true
       </div>
       <div class="ErrorPage-errorImageContainer">
         <img class="ErrorPage-errorImage" src="{{ site.baseurl }}/assets/img/404/liukanshan_wire.svg" alt="page error">
-
-          alt="page error">
+ 
       </div>
     </div>
   </div>
