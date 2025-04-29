@@ -18,7 +18,7 @@ timezone: America/Bogota
 
 title: py4rce # the main title
 
-tagline: py4rce # it will display as the subtitle
+tagline: blog dedicado a la tecnología, desarrollo web, seguridad informática # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Py4RCE es un blog dedicado a la tecnología, desarrollo web, seguridad informática, 
