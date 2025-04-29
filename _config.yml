@@ -21,7 +21,10 @@ title: py4rce # the main title
 tagline: py4rce # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  py4rce blog.
+  Py4RCE es un blog dedicado a la tecnología, desarrollo web, seguridad informática, 
+  y programación. Compartimos tutoriales, guías, y artículos sobre las últimas 
+  tendencias en desarrollo web, seguridad informática, pentesting y mucho más. Aprende y mejora 
+  tus habilidades en desarrollo web y ciberseguridad con contenido práctico y actualizado.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -48,7 +51,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: h6pxxSDYxvj8z83E1AEMMQWjna9UvGR5OB_QTge1tIA # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
