@@ -2,9 +2,12 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
+<<<<<<< HEAD
 backgroud_animation: true
  
 mouse_click_effect: true
+=======
+>>>>>>> 105c1e3aabc75dee17968a7d55a3381bb3d8e4ac
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -227,6 +230,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+<<<<<<< HEAD
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
@@ -301,3 +305,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+=======
+>>>>>>> 105c1e3aabc75dee17968a7d55a3381bb3d8e4ac
