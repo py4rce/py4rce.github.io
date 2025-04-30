@@ -83,3 +83,6 @@ Estudiante de Ingeniería de Sistemas con sólida formación en desarrollo web, 
 - **Linux Administrador LPIC-1** – LPI (2023)  
 - **ISC2 Certified in Cybersecurity (CC)** – ISC2 (2023)  
 - **Introducción a la Seguridad Cibernética** – Cisco Networking Academy (2021)  
+
+ 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3167671" frameborder="0" style="border: none; width: 325.5px; height: 83px; overflow: hidden;"></iframe>
